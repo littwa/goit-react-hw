@@ -1,0 +1,17 @@
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+.feedback button {
+  margin: 4px;
+  padding: 2px 4px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.feedback button:focus {
+  outline: none;
+}
