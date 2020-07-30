@@ -10,7 +10,6 @@ class App extends Component {
   // static defaultProps = {};
 
   state = {
-    // value: this.props.value,
     good: 0,
     neutral: 0,
     bad: 0,
